@@ -31,6 +31,6 @@
 
 ## Quer testar? basta clicar aqui! &#128105;&#8205;&#128187;
 
-- [Link executável](https://projeto-final-art-frotas.vercel.app](https://rayanereissler.github.io/rayane.portfolio.github.io/)https://rayanereissler.github.io/rayane.portfolio.github.io/)
+- [Link executável](https://rayanereissler.github.io/rayane.portfolio.github.io/)
 
 
