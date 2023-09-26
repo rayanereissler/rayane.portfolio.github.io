@@ -23,7 +23,7 @@
 ## Serviços Usados &#128736;&#65039;
 
 - Github
-## Características 		&#128221;
+
 
 ## Autores 	&#128101;
 
